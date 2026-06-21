@@ -1,0 +1,8 @@
+[theme]
+base="light"
+
+primaryColor="#126ce0"          
+backgroundColor="#ececee"      
+secondaryBackgroundColor="#F5F7FA"  # paneles claros
+textColor="#0F172A"             # texto oscuro
+font="sans serif"
